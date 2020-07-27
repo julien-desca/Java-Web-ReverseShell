@@ -15,4 +15,4 @@ A war-ready reverse shell to deploy on Java EE application server
 
 Original shell code found [here](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#java)
 
-adapted for the vulhub machine 'My tomcat host' [vulhub link](https://www.vulnhub.com/entry/my-tomcat-host-1,457/)
+adapted for the vulhub machine ['My tomcat host'](https://www.vulnhub.com/entry/my-tomcat-host-1,457/)
